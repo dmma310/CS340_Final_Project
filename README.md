@@ -1,3 +1,3 @@
 # CS340_Final_Project
 
-MariaDb, Express, React, NodeJS
+Full stack app using MariaDb, Express, React, NodeJS. Allows user to signup, login, logout, view, edit, add, and remove playlists.
